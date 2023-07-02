@@ -2,17 +2,11 @@
 <div align="center">
   
 ## 👋 OH HYEONG SANG 👋 
-  
+
+  ####  🦁 멋쟁이사자처럼 백엔드 스쿨 2기 수료   
   
   <img src="https://github-readme-stats.vercel.app/api?username=ohy1023"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zvyg1023"/>
-  
-
-  <a href="https://velog.io/@zvyg1023"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
-  <a href="/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    
-  🦁 멋쟁이사자처럼 백엔드 스쿨 2기 수료   
- 
 
   <br>
  
@@ -66,4 +60,10 @@ src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notio
 
 <br/>
 
+</div>
+
+---
+<div align = "center">
+  <a href="https://velog.io/@zvyg1023"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
+  <a href="/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
