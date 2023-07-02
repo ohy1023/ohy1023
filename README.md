@@ -21,6 +21,7 @@
 <div align = "center">
 
 ### 🛠 SKILL 🛠
+
 <h5> Backend </h5>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -34,19 +35,13 @@
 
 <img src = "https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" >
 <img src = "https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" >
-
 <br/>
 
 <h5> DevOps </h5>
-
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
-
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
 <img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-
 <img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-
 <br/>
 
 <h5> Frontend </h5>
@@ -55,11 +50,9 @@
 src = "https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 <img
 src = "https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-
 <br/>
 
 <h5> Tool & Collaboration </h5>
-
 <img
 src = "https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" >
 <img
@@ -71,7 +64,6 @@ src = "https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=GitLa
 <img
 src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" >
 
-<br/>
 <br/>
 
 </div>
