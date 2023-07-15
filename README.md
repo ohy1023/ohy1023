@@ -38,16 +38,6 @@
 <img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 <br/>
 
-<h5> Frontend </h5>
-
-<img
-src = "https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img
-src = "https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-<img
-src = "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" >
-<br/>
-
 <h5> Tool & Collaboration </h5>
 <img
 src = "https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" >
