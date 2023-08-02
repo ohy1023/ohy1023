@@ -23,11 +23,14 @@
 <img src = "https://img.shields.io/badge/Bpring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" >
 <img src = "https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" >
 <img src = "https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white" >
+<img src = "https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white" >
 <br/>
 
 <h5> DataBase </h5>
 
 <img src = "https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" >
+<img src = "https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" >
+<img src = "https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" >
 <img src = "https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" >
 <br/>
 
