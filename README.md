@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" >
-<img src = "https://img.shields.io/badge/Bpring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" >
+<img src = "https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" >
 <img src = "https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" >
 <img src = "https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white" >
 <img src = "https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white" >
