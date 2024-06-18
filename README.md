@@ -11,7 +11,7 @@
   <a href="https://velog.io/@zvyg1023">
     <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
-  <a href="/">
+  <a href="https://oh-hyeongsang.notion.site/e17bbec3b7ea4a15a536abd4aaaa1fbf?pvs=74">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 
