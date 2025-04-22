@@ -6,7 +6,7 @@
 
   <br>
 
-  ### 📄 BLOG & PORTFOLIO 📄 
+  ### 📄 BLOG 📄 
   
   <a href="https://velog.io/@zvyg1023">
     <img src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
@@ -14,9 +14,6 @@
 <a href="https://until.blog/@zvyg1023">
   <img src="https://img.shields.io/badge/Until-20C997?style=flat-square"/>
 </a>
-  <a href="https://oh-hyeongsang.notion.site/fbd75c68e81447388d86de472c46c328">
-    <img src="https://img.shields.io/badge/-이력서-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=zvyg1023)](https://velog.io/@zvyg1023) 
   <br>
