@@ -1,21 +1,21 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b68fff,100:0055ff&height=180&text=백엔드%20개발자,%20오형상입니다💡&animation=&fontColor=ffffff&fontSize=50" />
 
-  ### ✍ EDU ✍ 
+  ### 교육
   #### 🦁 멋쟁이사자처럼 백엔드 스쿨 2기 수료 (2022.09.19 ~ 2023.02.17)
 
   <br>
 
-  ### 📄 BLOG 📄 
+  ### 채널
   
-  <a href="https://velog.io/@zvyg1023">
-    <img src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-  </a>
-<a href="https://until.blog/@zvyg1023">
-  <img src="https://img.shields.io/badge/Until-20C997?style=flat-square"/>
-</a>
+  [노션 이력서](https://oh-hyeongsang.notion.site/1e8a619dc6c0804bb739df6c723a0821?pvs=4)
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=zvyg1023)](https://velog.io/@zvyg1023) 
+  [포트폴리오](https://drive.google.com/file/d/1x19Ap6yCZM2ZS5Z7rTE3SkJxgDk32WQP/view)
+  
+  [Velog](https://velog.io/@zvyg1023/posts)
+  
+  [Until](https://until.blog/@zvyg1023)
+  
   <br>
   <br>
 
