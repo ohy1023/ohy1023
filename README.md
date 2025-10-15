@@ -8,10 +8,6 @@
 
   ### 채널
   
-  [노션 이력서](https://oh-hyeongsang.notion.site/1e8a619dc6c0804bb739df6c723a0821?pvs=4)
-  
-  [포트폴리오](https://drive.google.com/file/d/1x19Ap6yCZM2ZS5Z7rTE3SkJxgDk32WQP/view)
-  
   [Velog](https://velog.io/@zvyg1023/posts)
   
   [Until](https://until.blog/@zvyg1023)
